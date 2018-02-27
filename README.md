@@ -1,5 +1,5 @@
-Hangman
-Developed - Summer 2015
+Hangman\n
+Developed - Summer 2015\n
 Implemented in Python3.
 
 I independently developed a hangman game in Python3 after one semester of computer science classes. I have minimally cleaned up this project since, only changing text prompts and formatting.
