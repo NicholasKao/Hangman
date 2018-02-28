@@ -41,13 +41,13 @@ To play the game agains a human opponent, use the command "python Hangman.py" an
     3) The program is canceled by a keyboard interrupt
     
     
-The source code is adequately commented in order to follow my logic.
         
-        
-        
-        
-        
-        
-        
+To play against the computer (computer picks a word and the user guesses) use the command "python Hangman.py" and the game flow is as follows:
+
+  1) User is prompted to select a level (easy, medium, or hard) corresponding to how many strikes he/she is permitted.
+  2) The computer randomly selects a word from dictionary.csv (included in this repo) and the user is promped to guess (same as above)
+  3) The rest of the game play is the same as above.
+
         
      
+The source code is adequately commented in order to follow my logic.
